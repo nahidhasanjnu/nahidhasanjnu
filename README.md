@@ -15,8 +15,6 @@ Currently, I am building strong practical expertise in:
 
 I am actively seeking an **entry-level opportunity** in finance or data analytics where I can apply my skills and grow professionally.
 
----
-
 ## 📊 Skills
 
 ### 💰 Finance
@@ -35,21 +33,11 @@ I am actively seeking an **entry-level opportunity** in finance or data analytic
 - Excel  
 - Power BI   
 
----
-
-## 🎯 Career Objective
-
-To obtain an entry-level position in **Finance / Data Analytics / Banking**, where I can utilize my analytical skills, financial knowledge, and data tools to support business decision-making and organizational growth.
-
----
-
 ## 🌐 Connect With Me
 
 🔗 GitHub: https://github.com/nahidhasanjnu  
 🔗 LinkedIn: https://www.linkedin.com/in/nhasan2002/  
 📧 Email: mdnahidhasanjnu@gmail.com  
-
----
 
 ## 📌 Motto
 
