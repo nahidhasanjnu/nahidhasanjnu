@@ -1,8 +1,6 @@
-# 👨‍💼 Md. Nahid Hasan
-
+## 👋 Hi there, I'm Md. Nahid Hasan
 ## 💡 Data-Driven Finance Enthusiast | Financial Analyst | Excel • Power BI
 
----
 
 ## 👋 About Me
 
@@ -55,7 +53,7 @@ To obtain an entry-level position in **Finance / Data Analytics / Banking**, whe
 
 ## 📌 Motto
 
-> “Data tells a story — I turn it into financial insight.”## Hi there 👋
+> “Data tells a story — I turn it into financial insight.”
 
 <!--
 **nahidhasanjnu/nahidhasanjnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
