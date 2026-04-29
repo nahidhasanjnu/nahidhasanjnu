@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Md. Nahid Hasan
-## 💡 Data-Driven Finance Enthusiast | Financial Analyst | Excel • Power BI
+## 💡 BBA & MBA in Finance | Data-Driven Finance Enthusiast | Financial Analysis | Excel • Power BI
 
 
 ## 👋 About Me
